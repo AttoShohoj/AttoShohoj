@@ -1,260 +1,127 @@
+# ATTO SHOHOJ
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/AttoShohoj/AttoShohoj/main/attoshohoj.gif" width="100%" alt="Atto Shohoj Cyber Command Center">
 
 <br><br>
 
-# `ATTO SHOHOJ`
+### Education • Cybersecurity • IT Solutions • AI & Automation
 
-### `DIGITAL EDUCATION // CYBERSECURITY // TECHNOLOGY // AI`
+<p>
+<a href="https://attoshohoj.com">
+<img src="https://img.shields.io/badge/Website-Atto%20Shohoj-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+<a href="https://github.com/AttoShohoj">
+<img src="https://img.shields.io/badge/GitHub-AttoShohoj-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=INITIALIZING+ATTO+SHOHOJ+COMMAND+CENTER...;SYSTEM+STATUS%3A+ONLINE;EDUCATION+%7C+CYBERSECURITY+%7C+IT+%7C+AI;LEARN+%E2%80%A2+BUILD+%E2%80%A2+SECURE+%E2%80%A2+AUTOMATE;WELCOME+TO+THE+NEXT+GENERATION+OF+LEARNING" alt="Atto Shohoj Typing Animation">
-
-<br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D9FF?style=flat-square">
-<img src="https://img.shields.io/badge/SECURITY-ACTIVE-7C3AED?style=flat-square">
-<img src="https://img.shields.io/badge/AI-ENABLED-F43F5E?style=flat-square">
-<img src="https://img.shields.io/badge/EDUCATION-24%2F7-06B6D4?style=flat-square">
+**Practical Learning. Professional Technology. Better Digital Security.**
 
 </div>
 
 ---
 
-# `01 // COMMAND CENTER`
+## About Us
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                     ATTO SHOHOJ // CORE SYSTEM                       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  SYSTEM        : ATTO-SHOHOJ                                         ║
-║  CLASS         : EDUCATION + TECHNOLOGY                              ║
-║  CORE          : KNOWLEDGE                                           ║
-║  SECURITY      : CYBERSECURITY                                       ║
-║  INTELLIGENCE  : ARTIFICIAL INTELLIGENCE                             ║
-║  AUTOMATION    : ENABLED                                             ║
-║  STATUS        : ● ONLINE                                            ║
-║                                                                      ║
-║  MISSION       : MAKE LEARNING SIMPLE                                ║
-║                  MAKE TECHNOLOGY PRACTICAL                           ║
-║                  MAKE DIGITAL ENVIRONMENTS SAFER                     ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+**Atto Shohoj** is an education and technology platform focused on practical learning, cybersecurity, IT skills, digital solutions, and AI-powered productivity.
 
-**Atto Shohoj** is a modern education and technology platform combining **academic learning, IT training, cybersecurity, digital skills, and AI automation**.
+Our goal is simple: make complex subjects easier to understand and modern technology easier to use.
 
-We focus on turning complicated concepts into **clear knowledge, practical skills, and real-world capability**.
+| Area                 | What We Do                                                           |
+| -------------------- | -------------------------------------------------------------------- |
+| 🎓 Education         | Academic and technology-focused learning                             |
+| 🛡️ Cybersecurity    | Security assessment, WordPress security and ethical security testing |
+| 💻 IT Training       | Computer fundamentals, productivity and digital skills               |
+| 🤖 AI & Automation   | AI-assisted workflows, productivity and automation                   |
+| 🔬 Research          | Cybersecurity, digital forensics and emerging technologies           |
+| 🌐 Digital Solutions | Technology-focused tools, resources and services                     |
 
 ---
 
-# `02 // CORE ARCHITECTURE`
+## Services
+
+### Cybersecurity
+
+| Service                     | Description                                                     |
+| --------------------------- | --------------------------------------------------------------- |
+| **WordPress Security**      | Security assessment, hardening and security improvement         |
+| **Malware Remediation**     | Identification and removal of malicious website content         |
+| **Penetration Testing**     | Authorized security testing to identify vulnerabilities         |
+| **Web Security Assessment** | Security review of web applications and configurations          |
+| **Digital Forensics**       | Analysis of digital artifacts and security-related evidence     |
+| **Browser Forensics**       | Browser artifact and activity analysis                          |
+| **OSINT**                   | Open-source information research and intelligence gathering     |
+| **Security Research**       | Research into vulnerabilities, threats and defensive techniques |
+
+> Security testing is performed only on systems where appropriate authorization has been provided.
+
+### IT & Digital Skills
+
+| Training                 | Focus                                         |
+| ------------------------ | --------------------------------------------- |
+| **Basic IT**             | Computer fundamentals and everyday technology |
+| **Microsoft Word**       | Document creation and professional formatting |
+| **Microsoft Excel**      | Spreadsheets, formulas and data organization  |
+| **Microsoft PowerPoint** | Presentations and visual communication        |
+| **Digital Skills**       | Essential digital tools and workflows         |
+| **Technical Training**   | Practical technology knowledge                |
+
+### AI & Automation
+
+| Area                        | Application                                        |
+| --------------------------- | -------------------------------------------------- |
+| **AI Fundamentals**         | Understanding modern AI technologies               |
+| **AI for Students**         | Using AI responsibly for learning and productivity |
+| **AI for Job Readiness**    | AI-assisted professional workflows                 |
+| **Workflow Automation**     | Automating repetitive digital tasks                |
+| **AI-Assisted Development** | Using AI to improve development workflows          |
+| **Productivity**            | Building smarter technology-assisted workflows     |
+
+---
+
+## Education
+
+Our education ecosystem combines traditional academic learning with modern digital skills.
+
+| Category              | Subjects / Programs                            |
+| --------------------- | ---------------------------------------------- |
+| 🧬 **Science**        | Biology • General Science                      |
+| 📐 **Mathematics**    | Mathematics                                    |
+| 🎨 **Creative**       | Drawing & Fine Arts                            |
+| 💻 **IT**             | Basic IT • Computer Skills                     |
+| 📊 **Productivity**   | Word • Excel • PowerPoint                      |
+| 🛡️ **Cybersecurity** | Cybersecurity • Ethical Hacking • Web Security |
+| 🤖 **AI**             | AI Fundamentals • AI Automation                |
+
+### Learning Method
 
 <div align="center">
 
-```text
-                         ┌──────────────────────┐
-                         │     ATTO SHOHOJ      │
-                         │    CORE PLATFORM     │
-                         └──────────┬───────────┘
-                                    │
-          ┌─────────────────────────┼─────────────────────────┐
-          │                         │                         │
-          ▼                         ▼                         ▼
-   ┌─────────────┐           ┌─────────────┐           ┌───────────────┐
-   │  EDUCATION  │           │ TECHNOLOGY  │           │ CYBERSECURITY │
-   └──────┬──────┘           └──────┬──────┘           └──────┬────────┘
-          │                         │                         │
-          └─────────────────────────┼─────────────────────────┘
-                                    │
-                                    ▼
-                            ┌───────────────┐
-                            │ AI AUTOMATION │
-                            └───────┬───────┘
-                                    │
-                                    ▼
-                           ┌─────────────────┐
-                           │  FUTURE READY   │
-                           └─────────────────┘
-```
+**Learn → Understand → Practice → Apply → Improve**
 
 </div>
 
 ---
 
-# `03 // MISSION`
+## Cybersecurity Workflow
 
-### `KNOWLEDGE → SKILLS → CAPABILITY`
+Our security-focused workflow is designed around understanding the environment, identifying risks, and improving security.
 
-Atto Shohoj is built around four core principles:
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 🧠
-
-**LEARN**
-
-Understand the fundamentals.
-
-</td>
-<td width="25%" align="center">
-
-### 🛠️
-
-**BUILD**
-
-Create through practice.
-
-</td>
-<td width="25%" align="center">
-
-### 🛡️
-
-**SECURE**
-
-Think security-first.
-
-</td>
-<td width="25%" align="center">
-
-### 🤖
-
-**AUTOMATE**
-
-Work smarter with AI.
-
-</td>
-</tr>
-</table>
+| Phase               | Process                                                |
+| ------------------- | ------------------------------------------------------ |
+| **01 — Understand** | Define the scope, objective and environment            |
+| **02 — Discover**   | Identify relevant assets and potential attack surfaces |
+| **03 — Assess**     | Evaluate security weaknesses and risks                 |
+| **04 — Validate**   | Safely verify identified issues where authorized       |
+| **05 — Report**     | Document findings and recommendations                  |
+| **06 — Remediate**  | Apply appropriate security improvements                |
+| **07 — Review**     | Reassess and continuously improve                      |
 
 ---
 
-# `04 // CYBERSECURITY OPERATIONS`
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                 CYBERSECURITY OPERATIONS                     │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [01] WEB SECURITY                                           │
-│       ├── WordPress Security                                 │
-│       ├── Web Application Security                           │
-│       └── Security Configuration                             │
-│                                                              │
-│  [02] SECURITY TESTING                                       │
-│       ├── Penetration Testing                                │
-│       ├── Vulnerability Assessment                           │
-│       └── Security Research                                  │
-│                                                              │
-│  [03] DIGITAL FORENSICS                                      │
-│       ├── Digital Forensics                                  │
-│       ├── Browser Forensics                                  │
-│       └── Artifact Analysis                                  │
-│                                                              │
-│  [04] INTELLIGENCE                                           │
-│       ├── OSINT                                              │
-│       ├── Security Research                                  │
-│       └── Threat Awareness                                   │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-### Security Capabilities
-
-| Domain      | Capability                               |
-| ----------- | ---------------------------------------- |
-| `WEB`       | Web Security & Security Assessment       |
-| `WP`        | WordPress Security & Malware Remediation |
-| `PENTEST`   | Authorized Penetration Testing           |
-| `FORENSICS` | Digital & Browser Forensics              |
-| `OSINT`     | Open-Source Intelligence                 |
-| `LINUX`     | Linux & Security Environments            |
-| `RESEARCH`  | Cybersecurity Research                   |
-| `AWARENESS` | Security Education                       |
-
-> **Security testing is intended only for systems where proper authorization has been obtained.**
-
----
-
-# `05 // AI INTELLIGENCE LAB`
-
-<div align="center">
-
-### `HUMAN INTELLIGENCE × ARTIFICIAL INTELLIGENCE`
-
-```text
-              HUMAN
-                │
-                ▼
-        ┌───────────────┐
-        │      AI       │
-        └───────┬───────┘
-                │
-                ▼
-          AUTOMATION
-                │
-                ▼
-       SMART WORKFLOWS
-                │
-                ▼
-        HIGHER PRODUCTIVITY
-```
-
-</div>
-
-### AI Focus
-
-* Artificial Intelligence Fundamentals
-* AI for Students
-* AI for Job Readiness
-* AI-Assisted Learning
-* Workflow Automation
-* AI-Assisted Development
-* Productivity Systems
-* Practical AI Applications
-
----
-
-# `06 // EDUCATION MATRIX`
-
-## Academic Learning
-
-```text
-┌──────────────────────────────────────────────┐
-│              ACADEMIC ECOSYSTEM              │
-├──────────────────────────────────────────────┤
-│                                              │
-│   🧬 BIOLOGY                                │
-│   📐 MATHEMATICS                            │
-│   🔬 GENERAL SCIENCE                        │
-│   🎨 DRAWING & FINE ARTS                    │ 
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-## Technology Learning
-
-```text
-┌─────────────────────────────────────────────┐
-│              DIGITAL ECOSYSTEM              │
-├─────────────────────────────────────────────┤
-│                                             │
-│   💻 BASIC IT                              │
-│   📊 MICROSOFT OFFICE                      │
-│   🌐 DIGITAL SKILLS                        │
-│   🛡️ CYBERSECURITY                         │
-│   🔐 ETHICAL HACKING                       │
-│   🤖 AI & AUTOMATION                       │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-# `07 // TECHNOLOGY STACK`
+## Technology Stack
 
 <div align="center">
 
@@ -264,234 +131,116 @@ Work smarter with AI.
 
 <br>
 
-```text
-PROGRAMMING       → Python
-WEB               → HTML / CSS / JavaScript
-CMS               → WordPress
-DATABASE          → MySQL / MongoDB
-OPERATING SYSTEM  → Linux / Windows
-VERSION CONTROL   → Git / GitHub
-DEVELOPMENT       → VS Code
-CONTAINERS        → Docker
-AUTOMATION        → Python / AI Workflows
-```
+| Category              | Technologies / Areas                          |
+| --------------------- | --------------------------------------------- |
+| **Programming**       | Python                                        |
+| **Web**               | HTML • CSS • JavaScript                       |
+| **CMS**               | WordPress                                     |
+| **Database**          | MySQL • MongoDB                               |
+| **Operating Systems** | Linux • Windows                               |
+| **Development**       | Visual Studio Code                            |
+| **Version Control**   | Git • GitHub                                  |
+| **Containers**        | Docker                                        |
+| **Automation**        | Python • AI-powered workflows                 |
+| **Security**          | Web Security • Pentesting • Forensics • OSINT |
 
 ---
 
-# `08 // SECURITY LAB`
+## Projects & Open Source
+
+Our GitHub organization is used for selected projects, experiments, research, learning resources and open-source work.
+
+| Project Area         | Focus                                       |
+| -------------------- | ------------------------------------------- |
+| 🔐 **Cybersecurity** | Security research and learning projects     |
+| 🌐 **Web Security**  | Web and WordPress security projects         |
+| 🐍 **Python**        | Automation and utility projects             |
+| 🤖 **AI**            | AI experiments and practical applications   |
+| 📚 **Education**     | Learning resources and educational projects |
+| ⚙️ **Automation**    | Productivity and workflow automation        |
+| 🧪 **Research**      | Technology and cybersecurity research       |
+
+<a href="https://github.com/AttoShohoj?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+## Why Atto Shohoj?
+
+|     | Principle       | Our Approach                                      |
+| --- | --------------- | ------------------------------------------------- |
+| 🎯  | **Practical**   | Focus on knowledge that can be applied            |
+| 🧠  | **Clear**       | Explain complex concepts in an understandable way |
+| 🛡️ | **Responsible** | Promote ethical and authorized technology use     |
+| 🚀  | **Modern**      | Follow emerging technologies and digital trends   |
+| 🤖  | **AI-Ready**    | Integrate AI where it creates real value          |
+| 📈  | **Continuous**  | Learn, improve and adapt continuously             |
+
+---
+
+## Our Vision
+
+### Education × Technology × Cybersecurity × AI
+
+We envision a technology ecosystem where people can learn modern skills, understand digital security, build useful solutions, and use AI responsibly.
+
+Our long-term direction is centered around:
+
+**Education → Skills → Technology → Security → Innovation**
+
+---
+
+## Connect With Us
+
+| Platform               | Purpose                                 |
+| ---------------------- | --------------------------------------- |
+| 🌐 **Website**         | Official website and services           |
+| 💻 **GitHub**          | Projects, research and open-source work |
+| 🎓 **Education**       | Courses and learning resources          |
+| 🛡️ **Cybersecurity**  | Security services and training          |
+| 🤖 **AI & Automation** | AI-focused learning and solutions       |
 
 <div align="center">
 
-### `AUTHORIZED • CONTROLLED • PRACTICAL`
-
-</div>
-
-```text
-                    SECURITY LAB
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-       NETWORK          LINUX           WEB
-          │              │              │
-          ▼              ▼              ▼
-       PROTOCOLS      COMMANDS       SECURITY
-       TCP/IP         SYSTEM         AUTH
-       DNS            FILES          INPUT
-       HTTP/S         PROCESSES      ACCESS
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                    ANALYSIS
-                         │
-                         ▼
-                    KNOWLEDGE
-```
-
-The learning environment emphasizes **fundamentals, controlled experimentation, defensive thinking, and responsible security practice**.
-
----
-
-# `09 // PROJECT TERMINAL`
-
-```text
-$ cd /atto-shohoj/projects
-
-$ ls
-
-01  cybersecurity-research
-02  security-learning-labs
-03  automation-projects
-04  educational-resources
-05  web-security-projects
-06  ai-experiments
-
-$ systemctl status innovation
-
-● innovation.service - ACTIVE
-● learning.service   - ACTIVE
-● security.service   - ACTIVE
-● automation.service - EVOLVING
-```
-
-### 🔬 Project Categories
-
-* Cybersecurity Research
-* Security Learning Labs
-* Web Security Projects
-* Python & Automation
-* AI Experiments
-* Educational Resources
-* Digital Tools
-* Open-Source Projects
-
----
-
-# `10 // GITHUB TELEMETRY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AttoShohoj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AttoShohoj&layout=compact&theme=tokyonight&hide_border=true" width="40%">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=AttoShohoj&theme=tokyonight&hide_border=true" width="72%">
-
-</div>
-
----
-
-# `11 // SECURITY MINDSET`
-
-```text
-        ┌─────────────┐
-        │   IDENTIFY  │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │   ANALYZE   │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │    ASSESS   │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │   PROTECT   │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │   MONITOR   │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │   IMPROVE   │
-        └─────────────┘
-```
-
-### `SECURITY IS A PROCESS — NOT A PRODUCT.`
-
----
-
-# `12 // ROADMAP`
-
-```text
-╔═════════════════════════════════════════════════════════════╗
-║                    ATTO SHOHOJ ROADMAP                      ║
-╠═════════════════════════════════════════════════════════════╣
-║                                                             ║
-║  [✓] Education Platform                                     ║
-║  [✓] IT Training                                            ║
-║  [✓] Cybersecurity Learning                                 ║
-║  [✓] AI & Automation Focus                                  ║
-║                                                             ║
-║  [→] Advanced Cybersecurity Labs                            ║
-║  [→] Open-Source Security Tools                             ║
-║  [→] AI-Powered Learning Systems                            ║
-║  [→] Security Research Projects                             ║
-║  [→] Automation Solutions                                   ║
-║  [→] Digital Learning Resources                             ║
-║                                                             ║
-╚═════════════════════════════════════════════════════════════╝
-```
-
----
-
-# `13 // FUTURE VISION`
-
-<div align="center">
-
-## `EDUCATION × TECHNOLOGY × SECURITY × AI`
-
-<br>
-
-### BUILDING A DIGITAL ECOSYSTEM FOR THE NEXT GENERATION
-
-</div>
-
-Atto Shohoj aims to create an ecosystem where learners can move from:
-
-**Learning → Practicing → Building → Securing → Automating**
-
-The long-term vision is to combine **education, technology, cybersecurity, and AI** into practical experiences that prepare people for an increasingly digital world.
-
----
-
-# `14 // NETWORK`
-
-<div align="center">
-
-### 🌐 OFFICIAL WEBSITE
+### Official Website
 
 <a href="https://attoshohoj.com">
-<img src="https://img.shields.io/badge/ATTO%20SHOHOJ-Visit%20Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Visit%20Atto%20Shohoj-attoshohoj.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <br><br>
 
-### 💻 GITHUB
+### GitHub Organization
 
 <a href="https://github.com/AttoShohoj">
-<img src="https://img.shields.io/badge/ATTO%20SHOHOJ-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-AttoShohoj-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-# `15 // FINAL STATUS`
+## Contact
+
+For professional inquiries regarding **cybersecurity services, WordPress security, penetration testing, digital forensics, IT training, AI automation, education, or collaboration**, please visit our official website.
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║             ATTO SHOHOJ COMMAND CENTER                   ║
-║                                                          ║
-║              ● SYSTEM STATUS : ONLINE                    ║
-║                                                          ║
-║       EDUCATION       ████████████████  ACTIVE           ║
-║       TECHNOLOGY      ████████████████  ACTIVE           ║
-║       CYBERSECURITY   ████████████████  ACTIVE           ║
-║       AI AUTOMATION   ███████████████░  EVOLVING         ║
-║                                                          ║
-║              STATUS : BUILDING THE FUTURE                ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<a href="https://attoshohoj.com">
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-ATTO%20SHOHOJ-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
-<br>
+<br><br>
 
-# `LEARN • BUILD • SECURE • AUTOMATE`
+**Learn • Build • Secure • Automate**
 
-### **ATTO SHOHOJ**
+### ATTO SHOHOJ
 
-*Education & Technology for the Next Generation.*
+<sub>Education & Technology for the Next Generation</sub>
 
-<br>
+<br><br>
 
-<sub>© Atto Shohoj • Education • Cybersecurity • IT • AI</sub>
+<sub>© Atto Shohoj. All rights reserved.</sub>
 
 </div>
-
