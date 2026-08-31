@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/AttoShohoj/AttoShohoj/main/attoshohoj.gif" width="100%" alt="Atto Shohoj">
+
+<br><br>
+
 # ATTO SHOHOJ
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Welcome+to+Atto+Shohoj;Practical+Education+%7C+Cybersecurity+%7C+IT+%7C+AI;Empowering+Learning+Through+Technology;Building+Skills+for+the+Digital+Future;Learn+%E2%80%A2+Build+%E2%80%A2+Secure+%E2%80%A2+Automate" alt="Atto Shohoj Typing Animation">
