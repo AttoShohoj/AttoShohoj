@@ -1,23 +1,26 @@
-# ATTO SHOHOJ
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AttoShohoj/AttoShohoj/main/attoshohoj.gif" width="100%" alt="Atto Shohoj Cyber Command Center">
+# ATTO SHOHOJ
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Welcome+to+Atto+Shohoj;Practical+Education+%7C+Cybersecurity+%7C+IT+%7C+AI;Empowering+Learning+Through+Technology;Building+Skills+for+the+Digital+Future;Learn+%E2%80%A2+Build+%E2%80%A2+Secure+%E2%80%A2+Automate" alt="Atto Shohoj Typing Animation">
+
+<br>
 
 ### Education • Cybersecurity • IT Solutions • AI & Automation
 
-<p>
-<a href="https://attoshohoj.com">
-<img src="https://img.shields.io/badge/Website-Atto%20Shohoj-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-<a href="https://github.com/AttoShohoj">
-<img src="https://img.shields.io/badge/GitHub-AttoShohoj-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
+<br>
 
-**Practical Learning. Professional Technology. Better Digital Security.**
+<a href="https://attoshohoj.com">
+  <img src="https://img.shields.io/badge/Website-Atto%20Shohoj-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Atto Shohoj Website">
+</a>
+
+<a href="https://github.com/AttoShohoj">
+  <img src="https://img.shields.io/badge/GitHub-Atto%20Shohoj-111827?style=for-the-badge&logo=github&logoColor=white" alt="Atto Shohoj GitHub">
+</a>
+
+<br><br>
+
+<strong>Practical Learning. Professional Technology. Better Digital Security.</strong>
 
 </div>
 
